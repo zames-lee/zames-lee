@@ -10,7 +10,7 @@
   <h1
     style="
       position: absolute;
-      top: 16px;              /* ↑ 여기 숫자 줄이면 더 위로, 늘리면 아래로 */
+      top: 0px;              /* ↑ 여기 숫자 줄이면 더 위로, 늘리면 아래로 */
       left: 50%;
       transform: translateX(-50%);
       margin: 0;
