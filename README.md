@@ -6,7 +6,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120
 &text=Meet%20Museong&fontColor=ffffff&fontSize=40
-&fontAlign=50&fontAlignY=20
+&fontAlign=50&fontAlignY=10
 &cache_seconds=1"
     width="160%" />
 </div>
