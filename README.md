@@ -2,11 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Meet%20Museong&fontColor=ffffff&fontSize=40" width="160%" />
 </div>
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello there </h2>  
-  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    의문을 품는 순간, 분석은 시작된다. 안녕하세요! 저는 공간의 구조와 사람의 움직임을 이해하기 위해, 데이터와 공간적 시선을 함께 익혀가는 분석가 이무성입니다.
-  </div> 
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120
+&text=Meet%20Museong&fontColor=ffffff&fontSize=40
+&fontAlign=50&fontAlignY=20
+&cache_seconds=1"
+    width="160%" />
 </div>
 
 <div style="text-align: left;">
